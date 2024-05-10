@@ -1,0 +1,3 @@
+Képek névadási szabályai.
+Példa: Felhasználónév.Marci 
+Kívánt képelnevezés: haz2 ekkor a képfájlneve legyen: Marci_haz2.jpg (jpg helyett lehet más is)
